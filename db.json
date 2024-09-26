@@ -1,60 +1,33 @@
 {
   "products": [
     {
-      "id": "e1b5",
-      "title": "PowerSuppy",
-      "price": "1200",
-      "imageUrl": "https://m.media-amazon.com/images/I/51qQyKUgxHL._SX300_SY300_QL70_FMwebp_.jpg"
+      "title": "iphone 4",
+      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
+      "description": "Iphone 4 was good ",
+      "price": 499,
+      "id": 101
     },
     {
-      "id": "e9cd",
-      "title": "test",
-      "price": "12",
-      "imageUrl": "https://m.media-amazon.com/images/I/51qQyKUgxHL._SX300_SY300_QL70_FMwebp_.jpg"
+      "title": "iphone 4s",
+      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
+      "description": "Iphone 4s was good ",
+      "price": 599,
+      "id": 102
     },
     {
-      "id": "cc6f",
-      "title": "Smart Watch",
-      "price": "1200",
-      "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/r/y/f/-original-imagxp8tmkqqspa4.jpeg?q=70"
-    },
-    {
-      "id": "e9e4",
-      "title": "Iphone 15",
-      "price": "89999",
-      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70"
-    },
-    {
-      "id": "2e51",
-      "title": "iphone 13",
-      "price": "56999",
-      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/4/d/-original-imaghx9qygjjg8hz.jpeg?q=70"
-    },
-    {
-      "id": "0185",
-      "title": "moto G",
-      "price": "24999",
-      "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/t/j/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.jpeg?q=70"
-    },
-    {
-      "name": "mobile",
-      "image": "xom",
-      "price": "12",
-      "id": "AMBX-TK"
+      "title": "iphone 5",
+      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
+      "description": "new phone, iphone!",
+      "price": 449,
+      "id": 103
     }
   ],
   "users": [
     {
       "id": 1,
-      "name": "default",
-      "password": "default"
+      "name": "user",
+      "password": "user"
     }
   ],
-  "wishlist": [
-    {
-      "id": 1,
-      "name": "default",
-      "password": "default"
-    }
-  ]
+  "cart": []
 }

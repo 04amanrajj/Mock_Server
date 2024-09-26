@@ -1,0 +1,12 @@
+GET http://localhost:4000/products
+###
+POST http://localhost:4000/products
+Content-Type: application/json
+
+
+{
+  "title":"iphone 5",
+  "image": "/home/amanrajj/Desktop/Mock_Server/images/iPhone 4S - Sam's Club.jpeg",
+  "description":"new phone, iphone!",
+  "price":"$449"
+}

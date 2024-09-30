@@ -1,32 +1,125 @@
 {
   "products": [
     {
-      "title": "iphone 4",
-      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
-      "description": "Iphone 4 was good ",
-      "price": 499,
-      "id": 101
+      "type": "mobile",
+      "title": "iPhone 11",
+      "image": "https://i.pinimg.com/564x/4f/95/d2/4f95d2599be47da6a4316493b402c1bb.jpg",
+      "description": "The iPhone 11 boasts a 6.1-inch Liquid Retina display, A13 Bionic chip for exceptional performance, and a dual-camera system for stunning photos and videos. With improved battery life and various color options, it combines style and functionality seamlessly.",
+      "price": "1099",
+      "id": 1
     },
     {
-      "title": "iphone 4s",
-      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
-      "description": "Iphone 4s was good ",
-      "price": 599,
-      "id": 102
+      "type": "mobile",
+      "title": "iPad",
+      "image": "https://i.pinimg.com/564x/87/cb/db/87cbdbe4042e550e4bb40eee9ae23026.jpg",
+      "description": "The iPad features a vibrant Retina display, powerful A-series chip, and support for Apple Pencil. Its lightweight design makes it perfect for creativity, productivity, and entertainment, offering all-day battery life and access to a vast library of apps.",
+      "price": "999",
+      "id": 2
     },
     {
-      "title": "iphone 5",
-      "image": "https://github.com/04amanrajj/apple-clone/blob/main/images/products/iPhone%204S%20-%20Sam's%20Club.jpeg",
-      "description": "new phone, iphone!",
-      "price": 449,
-      "id": 103
+      "type": "watch",
+      "title": "Apple Watch Series 6",
+      "image": "https://i.pinimg.com/564x/a4/97/30/a497300ddd23b1cc1948b3ffc27f386b.jpg",
+      "description": "Stay connected and healthy.",
+      "price": "399",
+      "id": 3
+    },
+    {
+      "type": "pc",
+      "title": "Mac",
+      "image": "https://i.pinimg.com/564x/20/0a/66/200a664d185ecbe23d0afef2c1956be3.jpg",
+      "description": "The Mac is a powerful desktop computer, designed for professionals and creatives. Featuring a Retina display, high-performance processors, and cutting-edge graphics, it offers seamless multitasking and stunning visuals for demanding tasks like video editing and graphic design. ",
+      "price": "2499",
+      "id": 4
+    },
+    {
+      "type": "pc",
+      "title": "MacBook",
+      "image": "https://i.pinimg.com/564x/aa/6a/93/aa6a93435d54288a2180e6ed1dbfa958.jpg",
+      "description": "The MacBook offers a sleek, ultra-portable design with a 12-inch Retina display. Powered by an energy-efficient Intel Core processor, it delivers smooth performance for everyday tasks. With all-day battery life, it’s perfect for on-the-go productivity",
+      "price": "1299",
+      "id": 5
+    },
+    {
+      "type": "mobile",
+      "title": "iPhone 4",
+      "image": "https://i.pinimg.com/564x/d2/55/89/d25589895a06d561fc508a0901fa6d91.jpg",
+      "description": "The iPhone 4 features a 3.5-inch Retina display, A4 chip for smooth performance, and a 5-megapixel camera with LED flash. Its sleek glass and stainless steel design marked a significant evolution in the iPhone lineup, offering a premium feel and improved multitasking capabilities",
+      "price": "399",
+      "id": 6
+    },
+    {
+      "type": "mobile",
+      "title": "iPhone 16",
+      "image": "https://i.pinimg.com/736x/25/85/ed/2585ed16c5b894e1602d58589a8e8216.jpg",
+      "description": "The iPhone 16 comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
+      "price": "799",
+      "id": 7
+    },
+    {
+      "type": "mobile",
+      "title": "iPhone X",
+      "image": "https://i.pinimg.com/564x/7a/f5/48/7af548b93d95cb37a12372f22515c6f1.jpg",
+      "description": "The iPhone X features a 5.8-inch Super Retina display, Face ID for secure authentication, and a powerful A11 Bionic chip. Its edge-to-edge design and stunning OLED screen make for an immersive experience, along with a dual-camera system for incredible photos and videos.",
+      "price": "499",
+      "id": 8
+    },
+    {
+      "type": "pc",
+      "title": "MacBook",
+      "image": "https://i.pinimg.com/564x/b2/89/e3/b289e3e2282f573e7e7cad4ace9873ed.jpg",
+      "description": "The MacBook offers a sleek, ultra-portable design with a 12-inch Retina display. Powered by an energy-efficient Intel Core processor, it delivers smooth performance for everyday tasks. With all-day battery life, it’s perfect for on-the-go productivity.",
+      "price": "1099",
+      "id": 9
+    },
+    {
+      "type": "accessories",
+      "title": "AirTag",
+      "image": "https://i.pinimg.com/564x/7d/8f/3a/7d8f3ac5df508d751ab872ce1bfa28d0.jpg",
+      "description": "The AirTag is a small, lightweight tracking device designed to help you locate lost items. It features precision finding using ultra-wideband technology, allowing you to easily track your belongings through the Find My app. With a customizable design and long-lasting battery life, it's perfect for keeping your essentials safe",
+      "price": "69",
+      "id": 10
+    },
+    {
+      "type": "mobile",
+      "title": "iPhone 16",
+      "image": "https://i.pinimg.com/564x/b5/1b/05/b51b05142f825304388a9cfd92d2c740.jpg",
+      "description": "The iPhone 16 comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
+      "price": "1299",
+      "id": 11
+    },
+    {
+      "type": "accessories",
+      "title": "Vision",
+      "image": "https://i.pinimg.com/564x/9b/58/90/9b5890e888f4997893d0d6671abf253d.jpg",
+      "description": "The Vision is a cutting-edge device designed for immersive experiences. Featuring advanced display technology and a sleek design, it integrates seamlessly with smart features to enhance productivity and entertainment, making it perfect for both work and leisure",
+      "price": "2999",
+      "id": 12
+    },
+    {
+      "type": "accessories",
+      "title": "Apple AirPods",
+      "image": "https://i.pinimg.com/564x/ec/e7/e6/ece7e699f18f7987c96abe66289e8614.jpg",
+      "description": "The Apple AirPods Max offer an exceptional over-ear listening experience, combining high-fidelity audio with Active Noise Cancellation (ANC). Featuring a custom acoustic design and a powerful H1 chip, these headphones deliver rich sound with deep bass, accurate mids, and crisp highs. With Transparency Mode, you can seamlessly switch between immersive sound and awareness of your surroundings. The breathable knit mesh canopy and memory foam ear cushions ensure a comfortable fit for long listening sessions. Offering up to 20 hours of battery life, the AirPods Max are ideal for all-day use.",
+      "price": "699",
+      "id": 13
     }
   ],
   "users": [
     {
-      "id": 1,
-      "name": "user",
-      "password": "user"
+      "username": "user",
+      "password": "user",
+      "id": 1
+    },
+    {
+      "username": "Aman Raj",
+      "password": "amanraj",
+      "id": 2
+    },
+    {
+      "username": "aman",
+      "password": "a",
+      "id": 3
     }
   ],
   "cart": []

@@ -117,10 +117,11 @@
       "id": 2
     },
     {
-      "username": "aman",
-      "password": "a",
+      "username": "admin",
+      "password": "admin",
       "id": 3
     }
+    
   ],
   "cart": []
 }

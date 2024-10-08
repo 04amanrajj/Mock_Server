@@ -5,7 +5,7 @@
       "title": "iPhone 11",
       "image": "https://i.pinimg.com/564x/4f/95/d2/4f95d2599be47da6a4316493b402c1bb.jpg",
       "description": "The iPhone 11 boasts a 6.1-inch Liquid Retina display, A13 Bionic chip for exceptional performance, and a dual-camera system for stunning photos and videos. With improved battery life and various color options, it combines style and functionality seamlessly.",
-      "price": "1099",
+      "price": 1099,
       "id": 1
     },
     {
@@ -13,7 +13,7 @@
       "title": "iPad",
       "image": "https://i.pinimg.com/564x/87/cb/db/87cbdbe4042e550e4bb40eee9ae23026.jpg",
       "description": "The iPad features a vibrant Retina display, powerful A-series chip, and support for Apple Pencil. Its lightweight design makes it perfect for creativity, productivity, and entertainment, offering all-day battery life and access to a vast library of apps.",
-      "price": "999",
+      "price": 999,
       "id": 2
     },
     {
@@ -21,7 +21,7 @@
       "title": "Apple Watch Series 6",
       "image": "https://i.pinimg.com/564x/a4/97/30/a497300ddd23b1cc1948b3ffc27f386b.jpg",
       "description": "Stay connected and healthy.",
-      "price": "399",
+      "price": 399,
       "id": 3
     },
     {
@@ -29,7 +29,7 @@
       "title": "Mac",
       "image": "https://i.pinimg.com/564x/20/0a/66/200a664d185ecbe23d0afef2c1956be3.jpg",
       "description": "The Mac is a powerful desktop computer, designed for professionals and creatives. Featuring a Retina display, high-performance processors, and cutting-edge graphics, it offers seamless multitasking and stunning visuals for demanding tasks like video editing and graphic design. ",
-      "price": "2499",
+      "price": 2499,
       "id": 4
     },
     {
@@ -37,7 +37,7 @@
       "title": "MacBook",
       "image": "https://i.pinimg.com/564x/aa/6a/93/aa6a93435d54288a2180e6ed1dbfa958.jpg",
       "description": "The MacBook offers a sleek, ultra-portable design with a 12-inch Retina display. Powered by an energy-efficient Intel Core processor, it delivers smooth performance for everyday tasks. With all-day battery life, it's perfect for on-the-go productivity",
-      "price": "1299",
+      "price": 1299,
       "id": 5
     },
     {
@@ -45,7 +45,7 @@
       "title": "iPhone 4",
       "image": "https://i.pinimg.com/564x/d2/55/89/d25589895a06d561fc508a0901fa6d91.jpg",
       "description": "The iPhone 4 features a 3.5-inch Retina display, A4 chip for smooth performance, and a 5-megapixel camera with LED flash. Its sleek glass and stainless steel design marked a significant evolution in the iPhone lineup, offering a premium feel and improved multitasking capabilities",
-      "price": "399",
+      "price": 399,
       "id": 6
     },
     {
@@ -53,7 +53,7 @@
       "title": "iPhone 16",
       "image": "https://i.pinimg.com/736x/25/85/ed/2585ed16c5b894e1602d58589a8e8216.jpg",
       "description": "The iPhone 16 comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
-      "price": "799",
+      "price": 799,
       "id": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "iPhone X",
       "image": "https://i.pinimg.com/564x/7a/f5/48/7af548b93d95cb37a12372f22515c6f1.jpg",
       "description": "The iPhone X features a 5.8-inch Super Retina display, Face ID for secure authentication, and a powerful A11 Bionic chip. Its edge-to-edge design and stunning OLED screen make for an immersive experience, along with a dual-camera system for incredible photos and videos.",
-      "price": "499",
+      "price": 499,
       "id": 8
     },
     {
@@ -69,7 +69,7 @@
       "title": "MacBook",
       "image": "https://i.pinimg.com/564x/b2/89/e3/b289e3e2282f573e7e7cad4ace9873ed.jpg",
       "description": "The MacBook offers a sleek, ultra-portable design with a 12-inch Retina display. Powered by an energy-efficient Intel Core processor, it delivers smooth performance for everyday tasks. With all-day battery life, it's perfect for on-the-go productivity.",
-      "price": "1099",
+      "price": 1099,
       "id": 9
     },
     {
@@ -77,7 +77,7 @@
       "title": "AirTag",
       "image": "https://i.pinimg.com/564x/7d/8f/3a/7d8f3ac5df508d751ab872ce1bfa28d0.jpg",
       "description": "The AirTag is a small, lightweight tracking device designed to help you locate lost items. It features precision finding using ultra-wideband technology, allowing you to easily track your belongings through the Find My app. With a customizable design and long-lasting battery life, it's perfect for keeping your essentials safe",
-      "price": "69",
+      "price": 69,
       "id": 10
     },
     {
@@ -85,7 +85,7 @@
       "title": "iPhone 16",
       "image": "https://i.pinimg.com/564x/b5/1b/05/b51b05142f825304388a9cfd92d2c740.jpg",
       "description": "The iPhone 16 comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
-      "price": "1299",
+      "price": 1299,
       "id": 11
     },
     {
@@ -93,7 +93,7 @@
       "title": "Vision",
       "image": "https://i.imgur.com/pdDrjZI.png",
       "description": "The Vision is a cutting-edge device designed for immersive experiences. Featuring advanced display technology and a sleek design, it integrates seamlessly with smart features to enhance productivity and entertainment, making it perfect for both work and leisure",
-      "price": "2999",
+      "price": 2999,
       "id": 12
     },
     {
@@ -101,7 +101,7 @@
       "title": "Apple AirPods",
       "image": "https://i.pinimg.com/564x/ec/e7/e6/ece7e699f18f7987c96abe66289e8614.jpg",
       "description": "The Apple AirPods Max offer an exceptional over-ear listening experience, combining high-fidelity audio with Active Noise Cancellation (ANC). Featuring a custom acoustic design and a powerful H1 chip, these headphones deliver rich sound with deep bass, accurate mids, and crisp highs. With Transparency Mode, you can seamlessly switch between immersive sound and awareness of your surroundings. The breathable knit mesh canopy and memory foam ear cushions ensure a comfortable fit for long listening sessions. Offering up to 20 hours of battery life, the AirPods Max are ideal for all-day use.",
-      "price": "699",
+      "price": 699,
       "id": 13
     },
     {
@@ -109,7 +109,7 @@
       "title": "iPhone 5",
       "image": "https://i.pinimg.com/564x/8e/12/d4/8e12d43b28cd62c7429e60a97a95de22.jpg",
       "description": "The iPhone 5 features a 4-inch Retina display, A6 chip, and an 8-megapixel camera. Its lightweight design and sleek aluminum body make it easy to handle while delivering powerful performance.",
-      "price": "399",
+      "price": 399,
       "id": 19
     },
     {
@@ -117,7 +117,7 @@
       "title": "iPhone 6",
       "image": "https://i.pinimg.com/564x/62/4c/d9/624cd9c409706d60650798e6f9bfd175.jpg",
       "description": "The iPhone 6 offers a 4.7-inch Retina HD display and A8 chip for smooth performance. With an improved camera and stylish design, it's perfect for everyday use.",
-      "price": "499",
+      "price": 499,
       "id": 20
     },
     {
@@ -125,7 +125,7 @@
       "title": "iPhone 7",
       "image": "https://i.pinimg.com/564x/75/ff/1b/75ff1b7243269cfddee05248738a8f06.jpg",
       "description": "The iPhone 7 comes with a 4.7-inch Retina HD display, A10 Fusion chip, and water resistance. Its improved camera and stereo speakers enhance the overall experience.",
-      "price": "699",
+      "price": 699,
       "id": 21
     },
     {
@@ -133,7 +133,7 @@
       "title": "iPhone 8",
       "image": "https://i.pinimg.com/564x/45/c8/9d/45c89d7d7c0f6f66b49027afb5c64a4d.jpg",
       "description": "The iPhone 8 features a 4.7-inch Retina HD display, A11 Bionic chip, and glass design for wireless charging. With improved cameras and augmented reality capabilities, it's perfect for capturing life's moments.",
-      "price": "799",
+      "price": 799,
       "id": 22
     },
     {
@@ -141,7 +141,7 @@
       "title": "iPhone SE (2nd generation)",
       "image": "https://i.pinimg.com/564x/fe/77/aa/fe77aa05db23a93e5e92965259bef8b9.jpg",
       "description": "The iPhone SE combines the powerful A13 Bionic chip with a compact 4.7-inch display. Its classic design and advanced features make it an affordable choice for those who want top performance.",
-      "price": "399",
+      "price": 399,
       "id": 23
     },
     {
@@ -149,7 +149,7 @@
       "title": "iPhone 12 ",
       "image": "https://i.pinimg.com/564x/24/7c/04/247c04a2e6de6961c5183fc27aa7d777.jpg",
       "description": "The iPhone 12 offers a Super Retina XDR display and A14 Bionic chip, delivering powerful performance in a small package. It's lightweight and perfect for one-handed use.",
-      "price": "699",
+      "price": 699,
       "id": 24
     },
     {
@@ -157,16 +157,15 @@
       "title": "iPhone 13",
       "image": "https://i.pinimg.com/564x/5d/c0/cf/5dc0cf0585fc6242d92b643c54f30476.jpg",
       "description": "The iPhone 13 features a 6.1-inch Super Retina XDR display, A15 Bionic chip, and dual-camera system. With longer battery life and advanced photography features, it's a great choice for photography enthusiasts.",
-      "price": "799",
+      "price": 799,
       "id": 25
     },
-
     {
       "type": "iphone",
       "title": "iPhone 14",
       "image": "https://i.pinimg.com/564x/ac/f3/78/acf3780e27fdc2022aee2c5d6cb5cef9.jpg",
       "description": "The iPhone 14 features a 6.1-inch Super Retina XDR display, A15 Bionic chip, and advanced camera system for better low-light performance. It's designed for seamless connectivity and enhanced battery life.",
-      "price": "799",
+      "price": 799,
       "id": 26
     },
     {
@@ -174,7 +173,7 @@
       "title": "iPhone 15",
       "image": "https://i.pinimg.com/564x/bf/f4/2d/bff42d2af8e6125ae5973f226144aeb2.jpg",
       "description": "The iPhone 15 features a sleek design with a 6.1-inch Super Retina XDR display, A16 Bionic chip, and advanced camera capabilities for capturing stunning photos and videos.",
-      "price": "999",
+      "price": 999,
       "id": 27
     },
     {
@@ -182,7 +181,7 @@
       "title": "iMac 24-inch",
       "image": "https://i.pinimg.com/564x/36/57/07/365707d82b847174eefb87a38f46734c.jpg",
       "description": "The iMac 24-inch features a stunning 4.5K Retina display and is powered by the Apple M1 chip. With vibrant colors, powerful performance, and a slim design, it is perfect for creative and professional work.",
-      "price": "1499",
+      "price": 1499,
       "id": 28
     },
     {
@@ -190,7 +189,7 @@
       "title": "iMac 27-inch",
       "image": "https://i.pinimg.com/564x/a8/66/63/a86663891924933473c7c532459d1762.jpg",
       "description": "The iMac 27-inch is equipped with a 5K Retina display, Intel processors, and enhanced graphics, making it ideal for demanding creative workflows such as video editing and design.",
-      "price": "1799",
+      "price": 1799,
       "id": 29
     },
     {
@@ -198,7 +197,7 @@
       "title": "Mac mini",
       "image": "https://i.pinimg.com/564x/45/5b/3b/455b3b04e2d21fbdc6df8f83852760b9.jpg",
       "description": "The Mac mini offers desktop-level performance in a compact form factor. Powered by the M1 chip, it is perfect for users seeking high performance in a small package.",
-      "price": "699",
+      "price": 699,
       "id": 30
     },
     {
@@ -206,205 +205,207 @@
       "title": "Mac Pro",
       "image": "https://i.pinimg.com/564x/70/eb/e5/70ebe5e8ab2946c14ee9ecef7e2764d8.jpg",
       "description": "The Mac Pro is Apple's most powerful desktop, featuring Intel Xeon processors, Radeon Pro graphics, and customizable options for professional workloads such as 3D rendering, video editing, and data analysis.",
-      "price": "5999",
+      "price": 5999,
       "id": 31
     },
     {
       "type": "mac",
       "title": "MacBook Air 13-inch",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/1e/c9/a6/1ec9a64b81b58c0c62bc7348ae8affe6.jpg",
       "description": "The MacBook Air features a 13.3-inch Retina display and is powered by the M1 chip, delivering impressive speed and battery life in a lightweight and ultra-thin design.",
-      "price": "999",
+      "price": 999,
       "id": 32
     },
     {
       "type": "mac",
       "title": "MacBook Air 15-inch",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/2e/b3/f5/2eb3f55064b17f2b1bce69be7dd0cf0e.jpg",
       "description": "The MacBook Air 15-inch offers more screen real estate for users who need a larger display, while maintaining the sleek, portable design of the Air series. It is powered by the M2 chip for outstanding performance.",
-      "price": "1199",
+      "price": 1199,
       "id": 33
     },
     {
       "type": "mac",
       "title": "MacBook Pro 13-inch",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/2f/a0/da/2fa0da86695afcc0db2a8a2a6890c4a5.jpg",
       "description": "The MacBook Pro 13-inch with M2 chip is designed for users who need portable power. With its Retina display, long battery life, and advanced performance, it's ideal for both work and play.",
-      "price": "1299",
+      "price": 1299,
       "id": 34
     },
     {
       "type": "mac",
       "title": "MacBook Pro 14-inch",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/5c/94/b8/5c94b877b9135b62c8801f8e844feb79.jpg",
       "description": "The MacBook Pro 14-inch is equipped with the M1 Pro chip, offering professional-grade performance with enhanced processing, graphics, and battery life, suitable for intensive creative tasks.",
-      "price": "1999",
+      "price": 1999,
       "id": 35
     },
     {
       "type": "mac",
       "title": "MacBook Pro 16-inch",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/c4/05/1a/c4051a153384d172cf9fbe4e38b826a9.jpg",
       "description": "The MacBook Pro 16-inch delivers desktop-class power in a portable form, featuring the M1 Pro or M1 Max chips, exceptional battery life, and a large, stunning Retina display for professionals on the go.",
-      "price": "2499",
+      "price": 2499,
       "id": 36
-    }
-    ,  {
+    },
+    {
       "type": "ipad",
       "title": "iPad Pro 12.9-inch",
-      "image": "https://i.pinimg.com/564x/f2/7b/59/f27b59684232e389ec8330f7ad32e9a2.jpg",
+      "image": "https://i.pinimg.com/564x/e3/91/c1/e391c12135199bdf354dc56205227a3f.jpg",
       "description": "The iPad Pro 12.9-inch features a Liquid Retina XDR display, M1 chip for extreme performance, and Thunderbolt connectivity. With Apple Pencil support, it's perfect for creatives and professionals seeking top-tier performance in a tablet.",
-      "price": "1099",
+      "price": 1099,
       "id": 37
     },
     {
       "type": "ipad",
       "title": "iPad Air",
-      "image": "https://i.pinimg.com/564x/9f/23/74/9f23745f1c0ad7cdd14f2e1807c19758.jpg",
+      "image": "https://i.pinimg.com/564x/ac/8a/5a/ac8a5a878006743c681c7b49a95f279e.jpg",
       "description": "The iPad Air offers a stunning 10.9-inch Liquid Retina display and the powerful M1 chip for impressive performance. It supports the Apple Pencil, making it ideal for note-taking, drawing, and creative tasks.",
-      "price": "749",
+      "price": 749,
       "id": 38
     },
     {
       "type": "ipad",
       "title": "iPad mini",
-      "image": "https://i.pinimg.com/564x/f1/9c/2f/f19c2f52f6c74b795f48c2d070ba7ff0.jpg",
+      "image": "https://i.pinimg.com/564x/c5/a5/27/c5a527a13e68911b34e29035bdf0890e.jpg",
       "description": "The iPad mini comes with an 8.3-inch Liquid Retina display and the A15 Bionic chip, delivering powerful performance in a compact form. With Apple Pencil support, it's perfect for productivity on the go.",
-      "price": "649",
+      "price": 649,
       "id": 39
     },
     {
       "type": "ipad",
       "title": "iPad 10.2-inch",
-      "image": "https://i.pinimg.com/564x/f5/0e/41/f50e41bb9c24c71a74b9d38d1d2e7613.jpg",
+      "image": "https://i.pinimg.com/564x/20/b6/75/20b675a5fa7e590235619df19b0a3680.jpg",
       "description": "The iPad 10.2-inch features a Retina display, A13 Bionic chip, and Apple Pencil support. It's a versatile device for everyday tasks, from browsing the web to watching movies and taking notes.",
-      "price": "329",
+      "price": 329,
       "id": 40
     },
     {
       "type": "ipad",
       "title": "iPad Pro 11-inch",
-      "image": "https://i.pinimg.com/564x/a8/39/6a/a8396a59e73607a4de198b5074fc4c77.jpg",
+      "image": "https://i.pinimg.com/564x/03/7d/46/037d469c23c0a29c94ed68a81fdd739b.jpg",
       "description": "The iPad Pro 11-inch offers a Liquid Retina display, M1 chip, and Thunderbolt connectivity. With Apple Pencil support, it's perfect for demanding creative tasks and professional workflows.",
-      "price": "799",
+      "price": 799,
       "id": 41
     },
     {
       "type": "ipad",
       "title": "iPad (9th Generation)",
-      "image": "https://i.pinimg.com/564x/e2/84/32/e284326e417db6f0f52c91d8c74fbf12.jpg",
+      "image": "https://i.pinimg.com/736x/c3/4b/31/c34b315618d1fd19e78be897819282eb.jpg",
       "description": "The iPad (9th generation) features a 10.2-inch Retina display, A13 Bionic chip, and support for Apple Pencil. It's an affordable option for browsing, watching videos, and light creative tasks.",
-      "price": "329",
+      "price": 329,
       "id": 42
-    }, {
+    },
+    {
       "type": "watch",
       "title": "Apple Watch Series 9",
-      "image": "https://i.pinimg.com/564x/ae/8b/67/ae8b6742b967f56fb02b307343f379a6.jpg",
+      "image": "https://i.pinimg.com/enabled_hi/564x/be/27/18/be271818fedef978dd4c44fd67f1546d.jpg",
       "description": "Apple Watch Series 9 features a larger Always-On Retina display, a faster S9 chip, and advanced health monitoring. It is designed for users who want both fitness and smart features in a seamless experience.",
-      "price": "399",
+      "price": 399,
       "id": 43
     },
     {
       "type": "watch",
       "title": "Apple Watch SE",
-      "image": "https://i.pinimg.com/564x/54/11/71/54117121b1549ed8e83e6341d2c54f06.jpg",
-      "description": "The Apple Watch SE offers essential Apple Watch features at an affordable price, including fitness tracking, heart rate monitoring, and seamless integration with iPhone. Perfect for those looking to stay connected and healthy.",
-      "price": "279",
+      "image": "https://i.pinimg.com/564x/27/a3/21/27a32121cea099dec843e91095247824.jpg",
+      "description": "The Apple Watch SE offers essential Apple Watch features at an affordable price, icludingfitness tracking, heart rate monitoring, and seamless integration with iPhone. Perfect for those looking to stay connected and healthy.",
+      "price": 279,
       "id": 44
     },
     {
       "type": "watch",
       "title": "Apple Watch Ultra",
-      "image": "https://i.pinimg.com/564x/78/30/bb/7830bb303c4b07ec4f501f57cf208802.jpg",
+      "image": "https://i.pinimg.com/564x/21/66/5a/21665a7f4097eb17faaafb1f60ae8573.jpg",
       "description": "Apple Watch Ultra is built for extreme athletes and adventurers, featuring a rugged design, precise dual-frequency GPS, and specialized features for water sports and mountain expeditions.",
-      "price": "799",
+      "price": 799,
       "id": 45
     },
     {
       "type": "watch",
       "title": "Apple Watch Series 8",
-      "image": "https://i.pinimg.com/564x/35/94/71/359471bcd6715df8256e77f8ba925cd9.jpg",
+      "image": "https://i.pinimg.com/564x/35/c8/bd/35c8bde29919fa414485021b0d819e81.jpg",
       "description": "Apple Watch Series 8 brings advanced health and safety features, including temperature sensing, crash detection, and enhanced workout tracking, all with a sleek design and multiple band options.",
-      "price": "399",
+      "price": 399,
       "id": 46
     },
     {
       "type": "watch",
       "title": "Apple Watch Nike Edition",
-      "image": "https://i.pinimg.com/564x/b1/f6/6a/b1f66a99591a1234797e1351bde34f3e.jpg",
+      "image": "https://i.pinimg.com/564x/44/6a/d5/446ad5264cfd215364c54cbc4c2a1bb6.jpg",
       "description": "Apple Watch Nike Edition is designed for fitness enthusiasts with exclusive Nike watch faces, sport bands, and integration with the Nike Run Club app. It offers all the functionality of the standard Apple Watch but with a sporty twist.",
-      "price": "429",
+      "price": 429,
       "id": 47
     },
     {
       "type": "watch",
       "title": "Apple Watch Hermes",
-      "image": "https://i.pinimg.com/564x/21/13/1a/21131a0b0e3d2521204d7b9b836c5c84.jpg",
+      "image": "https://i.pinimg.com/564x/81/08/01/8108013a5be19e4fb75403411959cd17.jpg",
       "description": "Apple Watch Hermes is the pinnacle of luxury in smartwatches, featuring handcrafted leather bands, exclusive watch faces, and all the smart features of the Apple Watch. Ideal for those seeking elegance and functionality.",
-      "price": "1299",
+      "price": 1299,
       "id": 48
-    },{
+    },
+    {
       "type": "accessories",
       "title": "MagSafe Charger",
-      "image": "https://i.pinimg.com/564x/61/c4/09/61c409c1890cb8e707e6c18c846a2ef6.jpg",
+      "image": "https://i.pinimg.com/564x/69/ae/51/69ae5168ec36ad9af83f8d7f5f976527.jpg",
       "description": "The MagSafe Charger makes wireless charging a snap. Aligns perfectly to your iPhone 12 or later models, providing faster wireless charging up to 15W.",
-      "price": "39",
+      "price": 39,
       "id": 49
     },
     {
       "type": "accessories",
       "title": "Apple AirPods Pro (2nd Gen)",
-      "image": "https://i.pinimg.com/564x/1d/37/a2/1d37a2a7c579c5b12b450eac99a64b02.jpg",
+      "image": "https://i.pinimg.com/564x/14/6d/a0/146da0c2a57cc61e3c4ad2377b42c70e.jpg",
       "description": "Apple AirPods Pro (2nd Gen) offers Active Noise Cancellation, Transparency Mode, and customizable fit. A powerful audio experience with improved sound and longer battery life.",
-      "price": "249",
+      "price": 249,
       "id": 50
     },
     {
       "type": "accessories",
       "title": "Apple Pencil (2nd Gen)",
-      "image": "https://i.pinimg.com/564x/c9/4d/6d/c94d6d1c2dc45f244aefbb43de688e77.jpg",
+      "image": "https://i.pinimg.com/564x/8d/c9/79/8dc979da6c20817d337964fc1f0db7e3.jpg",
       "description": "Apple Pencil (2nd Gen) offers precise, fluid drawing and note-taking with the iPad Pro, iPad Air, and iPad mini. Magnetic attachment and wireless charging for convenience.",
-      "price": "129",
+      "price": 129,
       "id": 51
     },
     {
       "type": "accessories",
       "title": "MagSafe Battery Pack",
-      "image": "https://i.pinimg.com/564x/89/d5/09/89d5090197cc01b57f0a6671c5e8b081.jpg",
+      "image": "https://i.pinimg.com/564x/bc/83/95/bc839504a4245b8eeb85cd617b723106.jpg",
       "description": "The MagSafe Battery Pack provides on-the-go charging for your iPhone. Simply attach to the back of your iPhone 12 or later models for a boost in battery life without cables.",
-      "price": "99",
+      "price": 99,
       "id": 52
     },
     {
       "type": "accessories",
       "title": "AirTag (4 Pack)",
-      "image": "https://i.pinimg.com/564x/3d/91/09/3d910979b0ffea5269d256f2bcd4e9af.jpg",
-      "description": "AirTag helps you track down your items using the Find My app. Attach it to your keys, bag, or anything else, and you’ll be able to locate it with precision.",
-      "price": "99",
+      "image": "https://i.pinimg.com/564x/55/a4/d1/55a4d119cd06e303776b4f5fd70d6282.jpg",
+      "description": "AirTag helps you track down your items using the Find My app. Attach it to your keys, bag, or anything else, and you'll be able to locate it with precision.",
+      "price": 99,
       "id": 53
     },
     {
       "type": "accessories",
       "title": "MagSafe Duo Charger",
-      "image": "https://i.pinimg.com/564x/f8/8b/5d/f88b5d508f5d21df688b9f7c22c5a6e5.jpg",
+      "image": "https://i.pinimg.com/564x/de/d7/3c/ded73c9ae9931ac8fe898b66a8aafe0a.jpg",
       "description": "The MagSafe Duo Charger lets you charge your iPhone and Apple Watch simultaneously. It folds up neatly, making it perfect for traveling.",
-      "price": "129",
+      "price": 129,
       "id": 54
     },
     {
       "type": "accessories",
       "title": "Apple Watch Bands",
-      "image": "https://i.pinimg.com/564x/ca/02/19/ca0219050c7b151b2e5d22796ec3e6f4.jpg",
+      "image": "https://i.pinimg.com/736x/a4/03/0e/a4030e85039240a700b3779f6507726f.jpg",
       "description": "Choose from a wide variety of Apple Watch bands in different colors and styles, including Sport Band, Solo Loop, and Leather Link, to personalize your Apple Watch.",
-      "price": "49",
+      "price": 49,
       "id": 55
     },
     {
       "type": "accessories",
       "title": "Apple Lightning to USB Cable (1m)",
-      "image": "https://i.pinimg.com/564x/76/20/18/762018b97e2304cb29dbf907beecb15a.jpg",
+      "image": "https://i.pinimg.com/564x/6b/fa/15/6bfa15260d66c46dfe885d44052cb258.jpg",
       "description": "This Lightning to USB Cable (1 meter) lets you connect your iPhone, iPad, or iPod to a computer or power adapter for syncing and charging.",
-      "price": "19",
+      "price": 19,
       "id": 56
     }
   ],
@@ -433,6 +434,11 @@
       "username": "remeza",
       "password": "Pa$$w0rd!",
       "id": 5
+    },
+    {
+      "username": "Aman Raj",
+      "password": "am",
+      "id": 6
     }
   ],
   "admin": [

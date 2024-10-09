@@ -82,9 +82,9 @@
     },
     {
       "type": "iphone",
-      "title": "iPhone 16",
+      "title": "iPhone 16 Pro",
       "image": "https://i.pinimg.com/564x/b5/1b/05/b51b05142f825304388a9cfd92d2c740.jpg",
-      "description": "The iPhone 16 comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
+      "description": "The iPhone 16 Pro comes with a stunning 6.7-inch display, A17 Bionic chip for lightning-fast performance, and a cutting-edge camera system. It's designed with a sleek finish and offers exceptional battery life, perfect for both work and play.",
       "price": 1299,
       "id": 11
     },

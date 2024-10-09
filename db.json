@@ -66,10 +66,10 @@
     },
     {
       "type": "mac",
-      "title": "MacBook",
-      "image": "https://i.pinimg.com/564x/b2/89/e3/b289e3e2282f573e7e7cad4ace9873ed.jpg",
-      "description": "The MacBook offers a sleek, ultra-portable design with a 12-inch Retina display. Powered by an energy-efficient Intel Core processor, it delivers smooth performance for everyday tasks. With all-day battery life, it's perfect for on-the-go productivity.",
-      "price": 1099,
+      "title": "Mac Studio",
+      "image": "https://i.pinimg.com/564x/5a/91/0a/5a910a7d0470e627595b41deb5d3e200.jpg",
+      "description": "Mac Studio brings power to tackle challenges of almost any size. From recording your own beats or mixing professional-quality music to editing your first video or adding effects to a feature-length film, the lightning-fast M2 Max has your back.",
+      "price": 1999,
       "id": 9
     },
     {
@@ -203,7 +203,7 @@
     {
       "type": "mac",
       "title": "Mac Pro",
-      "image": "https://i.pinimg.com/564x/70/eb/e5/70ebe5e8ab2946c14ee9ecef7e2764d8.jpg",
+      "image": "https://microless.com/cdn/products/18989fd232689930881eef5a27b2f299-md.jpg",
       "description": "The Mac Pro is Apple's most powerful desktop, featuring Intel Xeon processors, Radeon Pro graphics, and customizable options for professional workloads such as 3D rendering, video editing, and data analysis.",
       "price": 5999,
       "id": 31
@@ -219,7 +219,7 @@
     {
       "type": "mac",
       "title": "MacBook Air 15-inch",
-      "image": "https://i.pinimg.com/564x/2e/b3/f5/2eb3f55064b17f2b1bce69be7dd0cf0e.jpg",
+      "image": "https://i.pinimg.com/564x/77/c8/ae/77c8aeb5b82bf94db4187d0743664a3a.jpg",
       "description": "The MacBook Air 15-inch offers more screen real estate for users who need a larger display, while maintaining the sleek, portable design of the Air series. It is powered by the M2 chip for outstanding performance.",
       "price": 1199,
       "id": 33
